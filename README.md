@@ -8,3 +8,4 @@ List of participants:
 - Yana Kryukova
 - Skurkov Nikolay
 - Ilia Pendik
+- Mikhail Ilnitsky
