@@ -5,3 +5,4 @@ List of participants:
 - Constantin Kuznetsov
 - Yurii Vostrikov
 - Andrey Piletskiy
+- Yana Kryukova
