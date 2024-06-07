@@ -7,3 +7,4 @@ List of participants:
 - Andrey Piletskiy
 - Yana Kryukova
 - Skurkov Nikolay
+- Ilia Pendik
