@@ -3,3 +3,4 @@ The repository was created for taking the "C# Developer. Professional" course on
 
 List of participants:
 Constantin Kuznetsov
+Yurii Vostrikov
