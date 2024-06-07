@@ -6,3 +6,4 @@ List of participants:
 - Yurii Vostrikov
 - Andrey Piletskiy
 - Yana Kryukova
+- Skurkov Nikolay
